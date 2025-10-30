@@ -1,0 +1,10 @@
+*{
+    color: white;
+    background-color: grey;
+}
+
+.btn{
+    background-color: #671b1b;
+    /* border: none; */
+    font-size: 3rem;
+}
